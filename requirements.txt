@@ -1,0 +1,5 @@
+numpy
+scikit-learn>=1.2
+pydantic>=2.6
+flask>=3.0
+ortools>=9.9
